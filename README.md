@@ -1,6 +1,16 @@
 # Decentralized Voting Application
 This is a small application to implement voting in solidity smart contract using ReactJS.
 
+## Preview
+Before voting --->
+![image](https://github.com/VSubhankar/Voting-DApp-using-Solidity-React/assets/95838403/1d4f5348-6517-4169-8374-5677cd9840a3)
+
+After Voting  --->
+
+![image](https://github.com/VSubhankar/Voting-DApp-using-Solidity-React/assets/95838403/f7bb105f-0f14-4f5b-8544-716f1cd73a43)
+
+
+
 ## Installation
 
 After you cloned the repository, you want to install the packages using
